@@ -1,4 +1,4 @@
-# Hi, I'm Daksh 👋
+# Hi, I'm Daksh jain 👋
 
 🎓 B.Tech CSE (AI/ML) Student  
 🤖 Interested in Machine Learning, AI and Data Science  
