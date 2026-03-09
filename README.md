@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Daksh 👋
 
-<!--
-**Dakshjain54/Dakshjain54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI/ML) Student  
+🤖 Interested in Machine Learning, AI and Data Science  
+💻 Currently building real-world ML projects  
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Python
+- Machine Learning
+- Web development 
+- Scikit-Learn
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus
+- Machine Learning Projects
+- Deep Learning Basics
+- Open Source Contributions
+
+## 📊 GitHub Stats
+![Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dakshjain54&show_icons=true)
+
+## 🌱 Currently Learning
+- Deep Learning
+- Model Deployment
+- MLOps
